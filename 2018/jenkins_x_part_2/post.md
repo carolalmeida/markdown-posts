@@ -1,4 +1,4 @@
-<img src="logo_post.png" width="250">
+<div style="text-align:center"><img src="logo_post.png" align="middle" width="250"></div>
 
 # Jenkins X: Nova solução de CI/CD para Kubernetes - Parte 2
 
